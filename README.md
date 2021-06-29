@@ -1,11 +1,5 @@
 # Filtering Problem
 
-## Info
-
-|Name|Student ID|Mail|
-|---|---|---|
-|Vũ Lê Thế Anh|20C13002|anh.vu2020@ict.jvn.edu.vn|
-
 ## Description
 
 [29/06/2021] Implementation and visualization of 1D Extended Kalman Filter and Particle Filter.
